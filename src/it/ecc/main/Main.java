@@ -88,7 +88,7 @@ public class Main {
 		}
 
 		if(number.equalsIgnoreCase("")){
-			return "ERROR - EMPTY FIELD " + number;
+			return "ERROR - Empty row " + number;
 		}else{
 			return number;
 		}
